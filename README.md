@@ -1,39 +1,38 @@
 <h1 align="center">Hi 👋, I'm Mohamed Al-Tayep</h1>
-<h3 align="center">IoT | Embedded Systems | Smart Technology Developer</h3>
+<h3 align="center">Flutter Developer | Mobile UI/UX Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1D9BF0&width=435&lines=Building+Smart+Connected+Systems;IoT+%2B+Sensors+%2B+Cloud+Monitoring;Tech+For+Automation+and+Innovation!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1D9BF0&width=435&lines=Building+Modern+Flutter+Apps;Passionate+about+Clean+UI+and+UX;Turning+Ideas+into+Beautiful+Mobile+Experiences!" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🚀 About Me
-- 👨‍💻 I design and develop **smart embedded systems** with real-time data capabilities  
-- ☁️ Experienced in **Wi-Fi modules**, **sensor networks**, and **cloud integration**  
-- 🔍 Focused on scalable, efficient solutions for **automation** and **connected devices**
-- 🌍 Passionate about building systems that improve environments and infrastructure
+- 🎯 I specialize in building **cross-platform mobile apps** using Flutter  
+- 💡 Passionate about creating **smooth, responsive UIs** and modern app architecture  
+- 💼 Comfortable working with **state management**, **navigation**, and **API integration**  
+- 🌱 Always learning and exploring the latest in mobile development
 
 ---
 
 ### 🔧 Technologies I Use
-![ESP8266](https://img.shields.io/badge/-ESP8266-000000?style=for-the-badge&logo=wifi&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![ThingSpeak](https://img.shields.io/badge/-ThingSpeak-007ACC?style=for-the-badge)
-![Embedded Systems](https://img.shields.io/badge/-Embedded%20Systems-grey?style=for-the-badge)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST%20API-grey?style=for-the-badge)
 
 ---
 
-### 📦 Featured Project
-**Smart IoT Monitoring System**  
-A connected system for real-time sensor data collection and cloud-based monitoring.
+### 📱 Featured Project
+**Real Estate App UI (Majek)**  
+A modern Flutter mobile interface for browsing and viewing real estate properties.
 
-- Uses **ultrasonic sensors** to measure distance or level data  
-- Real-time data updates via **ESP8266 Wi-Fi module**  
-- **Firebase** or **ThingSpeak** integration for remote visibility  
-- Adaptable to smart city, industrial, or environmental applications
+- Custom UI components built with Flutter
+- Modular and clean project structure
+- Smooth navigation and animations
 
-🔗 [View the project repository »](https://github.com/MOHAMEDAL-TAYEP/smart-iot-monitor)
+🔗 [View the repository »](https://github.com/MOHAMEDAL-TAYEP/majek_real_estate_project)
 
 ---
 
@@ -51,4 +50,4 @@ A connected system for real-time sensor data collection and cloud-based monitori
 
 ---
 
-_“Building intelligent systems that connect the physical and digital world.”_
+_“Bringing ideas to life with beautiful, functional Flutter applications.”_
